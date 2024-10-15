@@ -27,3 +27,5 @@ void sevenseg_draw_digit (int position, int value)
 
    	Xil_Out32(XPAR_SEVENSEG_0_S00_AXI_BASEADDR, combined_mask);
 }
+
+// TEST
